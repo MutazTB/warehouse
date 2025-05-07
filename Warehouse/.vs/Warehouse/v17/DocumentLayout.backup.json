@@ -1,0 +1,1460 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\responses\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\responses\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\cqrs\\warehouses\\handlers\\getwarehousesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\cqrs\\warehouses\\handlers\\getwarehousesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\dtos\\pagedresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\dtos\\pagedresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099A9BB6-B2DB-4B67-9654-39B5C9626B0C}|Warehouse\\Warehouse.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\warehouse\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099A9BB6-B2DB-4B67-9654-39B5C9626B0C}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340A3A80-9573-4BF4-B2BE-8F2BF2B69F3C}|Infrastructure\\Infrastructure.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\infrastructure\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340A3A80-9573-4BF4-B2BE-8F2BF2B69F3C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099A9BB6-B2DB-4B67-9654-39B5C9626B0C}|Warehouse\\Warehouse.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\warehouse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099A9BB6-B2DB-4B67-9654-39B5C9626B0C}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099A9BB6-B2DB-4B67-9654-39B5C9626B0C}|Warehouse\\Warehouse.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\warehouse\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{099A9BB6-B2DB-4B67-9654-39B5C9626B0C}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340A3A80-9573-4BF4-B2BE-8F2BF2B69F3C}|Infrastructure\\Infrastructure.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\infrastructure\\services\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340A3A80-9573-4BF4-B2BE-8F2BF2B69F3C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\cqrs\\users\\handlers\\loginusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\cqrs\\users\\handlers\\loginusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099A9BB6-B2DB-4B67-9654-39B5C9626B0C}|Warehouse\\Warehouse.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\warehouse\\middleware\\jwtauthmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099A9BB6-B2DB-4B67-9654-39B5C9626B0C}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\middleware\\jwtauthmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099A9BB6-B2DB-4B67-9654-39B5C9626B0C}|Warehouse\\Warehouse.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\warehouse\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099A9BB6-B2DB-4B67-9654-39B5C9626B0C}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE286A3-A76F-4B98-BB61-C4765B42F3ED}|Domain\\Domain.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE286A3-A76F-4B98-BB61-C4765B42F3ED}|Domain\\Domain.csproj|solutionrelative:domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE286A3-A76F-4B98-BB61-C4765B42F3ED}|Domain\\Domain.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\domain\\entities\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE286A3-A76F-4B98-BB61-C4765B42F3ED}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340A3A80-9573-4BF4-B2BE-8F2BF2B69F3C}|Infrastructure\\Infrastructure.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\infrastructure\\services\\audit\\iauditlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340A3A80-9573-4BF4-B2BE-8F2BF2B69F3C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\audit\\iauditlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\validators\\userlogindtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\validators\\userlogindtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340A3A80-9573-4BF4-B2BE-8F2BF2B69F3C}|Infrastructure\\Infrastructure.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\infrastructure\\migrations\\20250430141820_warehousedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340A3A80-9573-4BF4-B2BE-8F2BF2B69F3C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20250430141820_warehousedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099A9BB6-B2DB-4B67-9654-39B5C9626B0C}|Warehouse\\Warehouse.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\warehouse\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099A9BB6-B2DB-4B67-9654-39B5C9626B0C}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\cqrs\\users\\handlers\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\cqrs\\users\\handlers\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\cqrs\\warehouses\\handlers\\updatewarehousecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\cqrs\\warehouses\\handlers\\updatewarehousecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\cqrs\\warehouses\\handlers\\deletewarehousecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\cqrs\\warehouses\\handlers\\deletewarehousecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\cqrs\\warehouses\\handlers\\createwarehousecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\cqrs\\warehouses\\handlers\\createwarehousecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\cqrs\\warehouseitems\\handlers\\updatewarehouseitemcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\cqrs\\warehouseitems\\handlers\\updatewarehouseitemcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\cqrs\\warehouseitems\\handlers\\deletewarehouseitemcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\cqrs\\warehouseitems\\handlers\\deletewarehouseitemcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\cqrs\\warehouseitems\\handlers\\createwarehouseitemcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\cqrs\\warehouseitems\\handlers\\createwarehouseitemcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\cqrs\\users\\handlers\\updateusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\cqrs\\users\\handlers\\updateusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\cqrs\\users\\commands\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\cqrs\\users\\commands\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\cqrs\\users\\handlers\\deleteusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\cqrs\\users\\handlers\\deleteusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\cqrs\\audit\\handlers\\getauditlogsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\cqrs\\audit\\handlers\\getauditlogsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340A3A80-9573-4BF4-B2BE-8F2BF2B69F3C}|Infrastructure\\Infrastructure.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\infrastructure\\services\\audit\\auditlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340A3A80-9573-4BF4-B2BE-8F2BF2B69F3C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\audit\\auditlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\cqrs\\audit\\queries\\getauditlogsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\cqrs\\audit\\queries\\getauditlogsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340A3A80-9573-4BF4-B2BE-8F2BF2B69F3C}|Infrastructure\\Infrastructure.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340A3A80-9573-4BF4-B2BE-8F2BF2B69F3C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099A9BB6-B2DB-4B67-9654-39B5C9626B0C}|Warehouse\\Warehouse.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\warehouse\\controllers\\auditlogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099A9BB6-B2DB-4B67-9654-39B5C9626B0C}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\controllers\\auditlogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\dtos\\auditlogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\dtos\\auditlogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\cqrs\\dashboard\\handlers\\getwarehouseitemsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\cqrs\\dashboard\\handlers\\getwarehouseitemsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\cqrs\\dashboard\\handlers\\getwarehousestatusqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\cqrs\\dashboard\\handlers\\getwarehousestatusqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\cqrs\\dashboard\\queries\\getwarehousestatusquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\cqrs\\dashboard\\queries\\getwarehousestatusquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099A9BB6-B2DB-4B67-9654-39B5C9626B0C}|Warehouse\\Warehouse.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\warehouse\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099A9BB6-B2DB-4B67-9654-39B5C9626B0C}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\cqrs\\dashboard\\queries\\getwarehouseitemsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\cqrs\\dashboard\\queries\\getwarehouseitemsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\dtos\\warehousestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\dtos\\warehousestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\cqrs\\warehouses\\queries\\getwarehousesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\cqrs\\warehouses\\queries\\getwarehousesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\cqrs\\users\\handlers\\getusersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\cqrs\\users\\handlers\\getusersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\cqrs\\users\\queries\\getusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\cqrs\\users\\queries\\getusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\cqrs\\warehouseitems\\handlers\\getwarehouseitemsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\cqrs\\warehouseitems\\handlers\\getwarehouseitemsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\cqrs\\warehouseitems\\queries\\getwarehouseitemsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\cqrs\\warehouseitems\\queries\\getwarehouseitemsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\cqrs\\users\\commands\\deleteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\cqrs\\users\\commands\\deleteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\cqrs\\users\\commands\\loginusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\cqrs\\users\\commands\\loginusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\cqrs\\warehouseitems\\commands\\updatewarehouseitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\cqrs\\warehouseitems\\commands\\updatewarehouseitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\cqrs\\warehouseitems\\commands\\deletewarehouseitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\cqrs\\warehouseitems\\commands\\deletewarehouseitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\cqrs\\warehouseitems\\commands\\createwarehouseitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\cqrs\\warehouseitems\\commands\\createwarehouseitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\cqrs\\warehouses\\commands\\updatewarehousecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\cqrs\\warehouses\\commands\\updatewarehousecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\cqrs\\warehouses\\commands\\deletewarehousecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\cqrs\\warehouses\\commands\\deletewarehousecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\cqrs\\warehouses\\commands\\createwarehousecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\cqrs\\warehouses\\commands\\createwarehousecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\cqrs\\users\\commands\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\cqrs\\users\\commands\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099A9BB6-B2DB-4B67-9654-39B5C9626B0C}|Warehouse\\Warehouse.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\warehouse\\controllers\\warehousescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099A9BB6-B2DB-4B67-9654-39B5C9626B0C}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\controllers\\warehousescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\validators\\deletewarehouseitemcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\validators\\deletewarehouseitemcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\validators\\updatewarehouseitemcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\validators\\updatewarehouseitemcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\validators\\warehouseitemcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\validators\\warehouseitemcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\dtos\\warehousecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\dtos\\warehousecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\dtos\\warehouseitemcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\dtos\\warehouseitemcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\dtos\\warehouseitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\dtos\\warehouseitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\validators\\updatewarehousecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\validators\\updatewarehousecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\validators\\warehousecreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\validators\\warehousecreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\validators\\deletewarehousecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\validators\\deletewarehousecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\validators\\usercreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\validators\\usercreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\dtos\\warehousedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\dtos\\warehousedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340A3A80-9573-4BF4-B2BE-8F2BF2B69F3C}|Infrastructure\\Infrastructure.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\infrastructure\\services\\auth\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340A3A80-9573-4BF4-B2BE-8F2BF2B69F3C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\auth\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340A3A80-9573-4BF4-B2BE-8F2BF2B69F3C}|Infrastructure\\Infrastructure.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\infrastructure\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340A3A80-9573-4BF4-B2BE-8F2BF2B69F3C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\dtos\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\dtos\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE286A3-A76F-4B98-BB61-C4765B42F3ED}|Domain\\Domain.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\domain\\entities\\warehouseitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE286A3-A76F-4B98-BB61-C4765B42F3ED}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\warehouseitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE286A3-A76F-4B98-BB61-C4765B42F3ED}|Domain\\Domain.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\domain\\entities\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE286A3-A76F-4B98-BB61-C4765B42F3ED}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE286A3-A76F-4B98-BB61-C4765B42F3ED}|Domain\\Domain.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE286A3-A76F-4B98-BB61-C4765B42F3ED}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE286A3-A76F-4B98-BB61-C4765B42F3ED}|Domain\\Domain.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3AE286A3-A76F-4B98-BB61-C4765B42F3ED}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9867923-0E50-4581-803D-C657151F90FF}|Application\\Application.csproj|solutionrelative:application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340A3A80-9573-4BF4-B2BE-8F2BF2B69F3C}|Infrastructure\\Infrastructure.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\infrastructure\\migrations\\20250501111219_allownull2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340A3A80-9573-4BF4-B2BE-8F2BF2B69F3C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20250501111219_allownull2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340A3A80-9573-4BF4-B2BE-8F2BF2B69F3C}|Infrastructure\\Infrastructure.csproj|c:\\users\\mtbakhi\\source\\repos\\warehouse\\infrastructure\\migrations\\20250501110821_allownull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340A3A80-9573-4BF4-B2BE-8F2BF2B69F3C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20250501110821_allownull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 299,
+          "SelectedChildIndex": 50,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:157:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Infrastructure\\Services\\Auth\\AuthService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\Auth\\AuthService.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Infrastructure\\Services\\Auth\\AuthService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\Auth\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:36:24.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Warehouse\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Warehouse\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Warehouse\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "Warehouse\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:06:37.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Warehouse\\appsettings.json",
+              "RelativeDocumentMoniker": "Warehouse\\appsettings.json",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Warehouse\\appsettings.json",
+              "RelativeToolTip": "Warehouse\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-29T06:34:11.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Warehouse\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Warehouse\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Warehouse\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Warehouse\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T08:07:14.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JwtAuthMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Warehouse\\Middleware\\JwtAuthMiddleware.cs",
+              "RelativeDocumentMoniker": "Warehouse\\Middleware\\JwtAuthMiddleware.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Warehouse\\Middleware\\JwtAuthMiddleware.cs",
+              "RelativeToolTip": "Warehouse\\Middleware\\JwtAuthMiddleware.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T12:35:55.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PagedResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\DTOs\\PagedResponseDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\PagedResponseDto.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\DTOs\\PagedResponseDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\PagedResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T08:12:40.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetWarehousesQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Warehouses\\Handlers\\GetWarehousesQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\CQRS\\Warehouses\\Handlers\\GetWarehousesQueryHandler.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Warehouses\\Handlers\\GetWarehousesQueryHandler.cs",
+              "RelativeToolTip": "Application\\CQRS\\Warehouses\\Handlers\\GetWarehousesQueryHandler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwCcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T08:29:32.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\Responses\\Response.cs",
+              "RelativeDocumentMoniker": "Application\\Responses\\Response.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\Responses\\Response.cs",
+              "RelativeToolTip": "Application\\Responses\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:34:47.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "20250501111219_allownull2.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Infrastructure\\Migrations\\20250501111219_allownull2.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250501111219_allownull2.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Infrastructure\\Migrations\\20250501111219_allownull2.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250501111219_allownull2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T11:12:20.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Warehouse\\Program.cs",
+              "RelativeDocumentMoniker": "Warehouse\\Program.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Warehouse\\Program.cs",
+              "RelativeToolTip": "Warehouse\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:13:27.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Domain\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Domain\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "Domain\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:08:56.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Domain\\Entities\\AuditLog.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\AuditLog.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Domain\\Entities\\AuditLog.cs",
+              "RelativeToolTip": "Domain\\Entities\\AuditLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T07:12:41.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Users\\Handlers\\LoginUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\CQRS\\Users\\Handlers\\LoginUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Users\\Handlers\\LoginUserCommandHandler.cs",
+              "RelativeToolTip": "Application\\CQRS\\Users\\Handlers\\LoginUserCommandHandler.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvysAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T07:39:33.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAuditLogger.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Infrastructure\\Services\\Audit\\IAuditLogger.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\Audit\\IAuditLogger.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Infrastructure\\Services\\Audit\\IAuditLogger.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\Audit\\IAuditLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T07:14:31.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Infrastructure\\DBContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DBContext\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Infrastructure\\DBContext\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\DBContext\\AppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAD4vyAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T17:29:01.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserLoginDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\Validators\\UserLoginDtoValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Validators\\UserLoginDtoValidator.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\Validators\\UserLoginDtoValidator.cs",
+              "RelativeToolTip": "Application\\Validators\\UserLoginDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T08:34:47.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "20250501110821_allownull.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Infrastructure\\Migrations\\20250501110821_allownull.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250501110821_allownull.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Infrastructure\\Migrations\\20250501110821_allownull.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250501110821_allownull.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T11:08:21.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateWarehouseCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Warehouses\\Handlers\\CreateWarehouseCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\CQRS\\Warehouses\\Handlers\\CreateWarehouseCommandHandler.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Warehouses\\Handlers\\CreateWarehouseCommandHandler.cs",
+              "RelativeToolTip": "Application\\CQRS\\Warehouses\\Handlers\\CreateWarehouseCommandHandler.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwC8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T08:14:22.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Users\\Handlers\\CreateUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\CQRS\\Users\\Handlers\\CreateUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Users\\Handlers\\CreateUserCommandHandler.cs",
+              "RelativeToolTip": "Application\\CQRS\\Users\\Handlers\\CreateUserCommandHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwDAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:11:49.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250430141820_warehouseDB.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Infrastructure\\Migrations\\20250430141820_warehouseDB.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250430141820_warehouseDB.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Infrastructure\\Migrations\\20250430141820_warehouseDB.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250430141820_warehouseDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:18:21.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UpdateWarehouseCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Warehouses\\Handlers\\UpdateWarehouseCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\CQRS\\Warehouses\\Handlers\\UpdateWarehouseCommandHandler.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Warehouses\\Handlers\\UpdateWarehouseCommandHandler.cs",
+              "RelativeToolTip": "Application\\CQRS\\Warehouses\\Handlers\\UpdateWarehouseCommandHandler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T11:43:18.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Warehouse\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Warehouse\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Warehouse\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Warehouse\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwC4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T08:37:44.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DeleteWarehouseCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Warehouses\\Handlers\\DeleteWarehouseCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\CQRS\\Warehouses\\Handlers\\DeleteWarehouseCommandHandler.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Warehouses\\Handlers\\DeleteWarehouseCommandHandler.cs",
+              "RelativeToolTip": "Application\\CQRS\\Warehouses\\Handlers\\DeleteWarehouseCommandHandler.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACgAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T11:44:47.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateWarehouseItemCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\WarehouseItems\\Handlers\\UpdateWarehouseItemCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\CQRS\\WarehouseItems\\Handlers\\UpdateWarehouseItemCommandHandler.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\WarehouseItems\\Handlers\\UpdateWarehouseItemCommandHandler.cs",
+              "RelativeToolTip": "Application\\CQRS\\WarehouseItems\\Handlers\\UpdateWarehouseItemCommandHandler.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwDAAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:24:45.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DeleteWarehouseItemCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\WarehouseItems\\Handlers\\DeleteWarehouseItemCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\CQRS\\WarehouseItems\\Handlers\\DeleteWarehouseItemCommandHandler.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\WarehouseItems\\Handlers\\DeleteWarehouseItemCommandHandler.cs",
+              "RelativeToolTip": "Application\\CQRS\\WarehouseItems\\Handlers\\DeleteWarehouseItemCommandHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwCUAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:25:56.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreateWarehouseItemCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\WarehouseItems\\Handlers\\CreateWarehouseItemCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\CQRS\\WarehouseItems\\Handlers\\CreateWarehouseItemCommandHandler.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\WarehouseItems\\Handlers\\CreateWarehouseItemCommandHandler.cs",
+              "RelativeToolTip": "Application\\CQRS\\WarehouseItems\\Handlers\\CreateWarehouseItemCommandHandler.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwDEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:04:07.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UpdateUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Users\\Handlers\\UpdateUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\CQRS\\Users\\Handlers\\UpdateUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Users\\Handlers\\UpdateUserCommandHandler.cs",
+              "RelativeToolTip": "Application\\CQRS\\Users\\Handlers\\UpdateUserCommandHandler.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwCoAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:24:26.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UpdateUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Users\\Commands\\UpdateUserCommand.cs",
+              "RelativeDocumentMoniker": "Application\\CQRS\\Users\\Commands\\UpdateUserCommand.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Users\\Commands\\UpdateUserCommand.cs",
+              "RelativeToolTip": "Application\\CQRS\\Users\\Commands\\UpdateUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:10:17.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DeleteUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Users\\Handlers\\DeleteUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\CQRS\\Users\\Handlers\\DeleteUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Users\\Handlers\\DeleteUserCommandHandler.cs",
+              "RelativeToolTip": "Application\\CQRS\\Users\\Handlers\\DeleteUserCommandHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwCUAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:25:00.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GetAuditLogsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Audit\\Handlers\\GetAuditLogsQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\CQRS\\Audit\\Handlers\\GetAuditLogsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Audit\\Handlers\\GetAuditLogsQueryHandler.cs",
+              "RelativeToolTip": "Application\\CQRS\\Audit\\Handlers\\GetAuditLogsQueryHandler.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAArwCAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T07:33:26.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AuditLogger.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Infrastructure\\Services\\Audit\\AuditLogger.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\Audit\\AuditLogger.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Infrastructure\\Services\\Audit\\AuditLogger.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\Audit\\AuditLogger.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T07:14:58.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GetAuditLogsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Audit\\Queries\\GetAuditLogsQuery.cs",
+              "RelativeDocumentMoniker": "Application\\CQRS\\Audit\\Queries\\GetAuditLogsQuery.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Audit\\Queries\\GetAuditLogsQuery.cs",
+              "RelativeToolTip": "Application\\CQRS\\Audit\\Queries\\GetAuditLogsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T07:33:07.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T17:30:26.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AuditLogsController.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Warehouse\\Controllers\\AuditLogsController.cs",
+              "RelativeDocumentMoniker": "Warehouse\\Controllers\\AuditLogsController.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Warehouse\\Controllers\\AuditLogsController.cs",
+              "RelativeToolTip": "Warehouse\\Controllers\\AuditLogsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T07:34:47.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Application\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "Application\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:27:15.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AuditLogDto.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\DTOs\\AuditLogDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\AuditLogDto.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\DTOs\\AuditLogDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\AuditLogDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T07:31:53.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GetWarehouseItemsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Dashboard\\Handlers\\GetWarehouseItemsQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\CQRS\\Dashboard\\Handlers\\GetWarehouseItemsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Dashboard\\Handlers\\GetWarehouseItemsQueryHandler.cs",
+              "RelativeToolTip": "Application\\CQRS\\Dashboard\\Handlers\\GetWarehouseItemsQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T07:04:25.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GetWarehouseStatusQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Dashboard\\Handlers\\GetWarehouseStatusQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\CQRS\\Dashboard\\Handlers\\GetWarehouseStatusQueryHandler.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Dashboard\\Handlers\\GetWarehouseStatusQueryHandler.cs",
+              "RelativeToolTip": "Application\\CQRS\\Dashboard\\Handlers\\GetWarehouseStatusQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T07:00:32.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Warehouse\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Warehouse\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Warehouse\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Warehouse\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T07:01:31.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GetWarehouseItemsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Dashboard\\Queries\\GetWarehouseItemsQuery.cs",
+              "RelativeDocumentMoniker": "Application\\CQRS\\Dashboard\\Queries\\GetWarehouseItemsQuery.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Dashboard\\Queries\\GetWarehouseItemsQuery.cs",
+              "RelativeToolTip": "Application\\CQRS\\Dashboard\\Queries\\GetWarehouseItemsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T07:04:02.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GetWarehouseStatusQuery.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Dashboard\\Queries\\GetWarehouseStatusQuery.cs",
+              "RelativeDocumentMoniker": "Application\\CQRS\\Dashboard\\Queries\\GetWarehouseStatusQuery.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Dashboard\\Queries\\GetWarehouseStatusQuery.cs",
+              "RelativeToolTip": "Application\\CQRS\\Dashboard\\Queries\\GetWarehouseStatusQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T06:59:12.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "WarehouseStatusDto.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\DTOs\\WarehouseStatusDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\WarehouseStatusDto.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\DTOs\\WarehouseStatusDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\WarehouseStatusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T06:59:40.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "GetUsersQuery.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Users\\Queries\\GetUsersQuery.cs",
+              "RelativeDocumentMoniker": "Application\\CQRS\\Users\\Queries\\GetUsersQuery.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Users\\Queries\\GetUsersQuery.cs",
+              "RelativeToolTip": "Application\\CQRS\\Users\\Queries\\GetUsersQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:27:45.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GetUsersQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Users\\Handlers\\GetUsersQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\CQRS\\Users\\Handlers\\GetUsersQueryHandler.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Users\\Handlers\\GetUsersQueryHandler.cs",
+              "RelativeToolTip": "Application\\CQRS\\Users\\Handlers\\GetUsersQueryHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAArwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:26:34.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GetWarehousesQuery.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Warehouses\\Queries\\GetWarehousesQuery.cs",
+              "RelativeDocumentMoniker": "Application\\CQRS\\Warehouses\\Queries\\GetWarehousesQuery.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Warehouses\\Queries\\GetWarehousesQuery.cs",
+              "RelativeToolTip": "Application\\CQRS\\Warehouses\\Queries\\GetWarehousesQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T08:13:50.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GetWarehouseItemsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\WarehouseItems\\Handlers\\GetWarehouseItemsQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\CQRS\\WarehouseItems\\Handlers\\GetWarehouseItemsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\WarehouseItems\\Handlers\\GetWarehouseItemsQueryHandler.cs",
+              "RelativeToolTip": "Application\\CQRS\\WarehouseItems\\Handlers\\GetWarehouseItemsQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:04:37.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "GetWarehouseItemsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\WarehouseItems\\Queries\\GetWarehouseItemsQuery.cs",
+              "RelativeDocumentMoniker": "Application\\CQRS\\WarehouseItems\\Queries\\GetWarehouseItemsQuery.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\WarehouseItems\\Queries\\GetWarehouseItemsQuery.cs",
+              "RelativeToolTip": "Application\\CQRS\\WarehouseItems\\Queries\\GetWarehouseItemsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:03:44.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DeleteUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Users\\Commands\\DeleteUserCommand.cs",
+              "RelativeDocumentMoniker": "Application\\CQRS\\Users\\Commands\\DeleteUserCommand.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Users\\Commands\\DeleteUserCommand.cs",
+              "RelativeToolTip": "Application\\CQRS\\Users\\Commands\\DeleteUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:10:45.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "LoginUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Users\\Commands\\LoginUserCommand.cs",
+              "RelativeDocumentMoniker": "Application\\CQRS\\Users\\Commands\\LoginUserCommand.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Users\\Commands\\LoginUserCommand.cs",
+              "RelativeToolTip": "Application\\CQRS\\Users\\Commands\\LoginUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T07:39:08.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UpdateWarehouseItemCommand.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\WarehouseItems\\Commands\\UpdateWarehouseItemCommand.cs",
+              "RelativeDocumentMoniker": "Application\\CQRS\\WarehouseItems\\Commands\\UpdateWarehouseItemCommand.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\WarehouseItems\\Commands\\UpdateWarehouseItemCommand.cs",
+              "RelativeToolTip": "Application\\CQRS\\WarehouseItems\\Commands\\UpdateWarehouseItemCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:18:56.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DeleteWarehouseItemCommand.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\WarehouseItems\\Commands\\DeleteWarehouseItemCommand.cs",
+              "RelativeDocumentMoniker": "Application\\CQRS\\WarehouseItems\\Commands\\DeleteWarehouseItemCommand.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\WarehouseItems\\Commands\\DeleteWarehouseItemCommand.cs",
+              "RelativeToolTip": "Application\\CQRS\\WarehouseItems\\Commands\\DeleteWarehouseItemCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:24:22.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CreateWarehouseItemCommand.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\WarehouseItems\\Commands\\CreateWarehouseItemCommand.cs",
+              "RelativeDocumentMoniker": "Application\\CQRS\\WarehouseItems\\Commands\\CreateWarehouseItemCommand.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\WarehouseItems\\Commands\\CreateWarehouseItemCommand.cs",
+              "RelativeToolTip": "Application\\CQRS\\WarehouseItems\\Commands\\CreateWarehouseItemCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:02:16.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UpdateWarehouseCommand.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Warehouses\\Commands\\UpdateWarehouseCommand.cs",
+              "RelativeDocumentMoniker": "Application\\CQRS\\Warehouses\\Commands\\UpdateWarehouseCommand.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Warehouses\\Commands\\UpdateWarehouseCommand.cs",
+              "RelativeToolTip": "Application\\CQRS\\Warehouses\\Commands\\UpdateWarehouseCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T11:42:31.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DeleteWarehouseCommand.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Warehouses\\Commands\\DeleteWarehouseCommand.cs",
+              "RelativeDocumentMoniker": "Application\\CQRS\\Warehouses\\Commands\\DeleteWarehouseCommand.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Warehouses\\Commands\\DeleteWarehouseCommand.cs",
+              "RelativeToolTip": "Application\\CQRS\\Warehouses\\Commands\\DeleteWarehouseCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T11:42:55.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CreateWarehouseCommand.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Warehouses\\Commands\\CreateWarehouseCommand.cs",
+              "RelativeDocumentMoniker": "Application\\CQRS\\Warehouses\\Commands\\CreateWarehouseCommand.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Warehouses\\Commands\\CreateWarehouseCommand.cs",
+              "RelativeToolTip": "Application\\CQRS\\Warehouses\\Commands\\CreateWarehouseCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T08:13:17.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CreateUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Users\\Commands\\CreateUserCommand.cs",
+              "RelativeDocumentMoniker": "Application\\CQRS\\Users\\Commands\\CreateUserCommand.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\CQRS\\Users\\Commands\\CreateUserCommand.cs",
+              "RelativeToolTip": "Application\\CQRS\\Users\\Commands\\CreateUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:09:54.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "WarehousesController.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Warehouse\\Controllers\\WarehousesController.cs",
+              "RelativeDocumentMoniker": "Warehouse\\Controllers\\WarehousesController.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Warehouse\\Controllers\\WarehousesController.cs",
+              "RelativeToolTip": "Warehouse\\Controllers\\WarehousesController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwBoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T08:33:02.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "DeleteWarehouseItemCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\Validators\\DeleteWarehouseItemCommandValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Validators\\DeleteWarehouseItemCommandValidator.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\Validators\\DeleteWarehouseItemCommandValidator.cs",
+              "RelativeToolTip": "Application\\Validators\\DeleteWarehouseItemCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:26:54.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "UpdateWarehouseItemCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\Validators\\UpdateWarehouseItemCommandValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Validators\\UpdateWarehouseItemCommandValidator.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\Validators\\UpdateWarehouseItemCommandValidator.cs",
+              "RelativeToolTip": "Application\\Validators\\UpdateWarehouseItemCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:26:23.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "WarehouseItemCreateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\Validators\\WarehouseItemCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Validators\\WarehouseItemCreateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\Validators\\WarehouseItemCreateDtoValidator.cs",
+              "RelativeToolTip": "Application\\Validators\\WarehouseItemCreateDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:10:12.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "WarehouseItemCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\DTOs\\WarehouseItemCreateDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\WarehouseItemCreateDto.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\DTOs\\WarehouseItemCreateDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\WarehouseItemCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:01:33.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "WarehouseCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\DTOs\\WarehouseCreateDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\WarehouseCreateDto.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\DTOs\\WarehouseCreateDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\WarehouseCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T08:11:57.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "WarehouseItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\DTOs\\WarehouseItemDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\WarehouseItemDto.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\DTOs\\WarehouseItemDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\WarehouseItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:01:54.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "DeleteWarehouseCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\Validators\\DeleteWarehouseCommandValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Validators\\DeleteWarehouseCommandValidator.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\Validators\\DeleteWarehouseCommandValidator.cs",
+              "RelativeToolTip": "Application\\Validators\\DeleteWarehouseCommandValidator.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADgvx8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T11:49:03.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "UpdateWarehouseCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\Validators\\UpdateWarehouseCommandValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Validators\\UpdateWarehouseCommandValidator.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\Validators\\UpdateWarehouseCommandValidator.cs",
+              "RelativeToolTip": "Application\\Validators\\UpdateWarehouseCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T11:48:11.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "WarehouseCreateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\Validators\\WarehouseCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Validators\\WarehouseCreateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\Validators\\WarehouseCreateDtoValidator.cs",
+              "RelativeToolTip": "Application\\Validators\\WarehouseCreateDtoValidator.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADgvxwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T08:34:24.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "UserCreateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\Validators\\UserCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Validators\\UserCreateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\Validators\\UserCreateDtoValidator.cs",
+              "RelativeToolTip": "Application\\Validators\\UserCreateDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T08:33:52.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "WarehouseDto.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\DTOs\\WarehouseDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\WarehouseDto.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\DTOs\\WarehouseDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\WarehouseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T08:12:13.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\DTOs\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\UserLoginDto.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\DTOs\\UserLoginDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:38:45.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Infrastructure\\Services\\Auth\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\Auth\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Infrastructure\\Services\\Auth\\IAuthService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\Auth\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:35:58.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Infrastructure\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Infrastructure\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T17:30:20.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "UserCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\DTOs\\UserCreateDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\UserCreateDto.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\DTOs\\UserCreateDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\UserCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:08:17.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:09:12.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-28T19:03:46.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-28T19:02:25.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T17:27:49.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Warehouse.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Domain\\Entities\\Warehouse.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Warehouse.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Domain\\Entities\\Warehouse.cs",
+              "RelativeToolTip": "Domain\\Entities\\Warehouse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T17:27:58.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "WarehouseItem.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Domain\\Entities\\WarehouseItem.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\WarehouseItem.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Domain\\Entities\\WarehouseItem.cs",
+              "RelativeToolTip": "Domain\\Entities\\WarehouseItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T17:28:09.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\mtbakhi\\source\\repos\\Warehouse\\Application\\Class1.cs",
+              "RelativeToolTip": "Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T17:26:11.145Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
